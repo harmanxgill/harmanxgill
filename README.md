@@ -1,1 +1,1 @@
-<code> <a href="https://www.instragram.com/harmanxgill/" title="Instagram Profile"> Instagram </a> </code>
+<code> <a href="https://www.instagram.com/harmanxgill/" title="Instagram Profile"> Instagram </a> </code>
