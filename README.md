@@ -3,7 +3,7 @@
 
 <br>
 
-<p> I am a Machine Learning enthusiast and I've been programming from last 3 years. </p>
+<p> I am a Computer Science student minoring in Astrophysics with a passion for machine learning and NLP, leveraging insights to solve complex problems and drive meaningful change. . </p>
 
 <br>
 <br>
@@ -12,7 +12,7 @@
 ```javascript
 const harmanxgill = {
     pronouns: "She" | "Her",
-    programming_languages: ["Javascript", "Python", "Java", "PHP", "MicrosoftVB", "CSS"],
+    programming_languages: ["C", "Python", "Java"],
     challenge: "I am currently doing the #66DaysOfData challenge to familiarize myself
     with Data Science and Data Analytics"
         },
